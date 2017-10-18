@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "194982804675",
+    "firebase_url": "https://qrpoint-64aa5.firebaseio.com",
+    "project_id": "qrpoint-64aa5",
+    "storage_bucket": "qrpoint-64aa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194982804675:android:2580eca4f2d20549",
+        "android_client_info": {
+          "package_name": "com.qrpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194982804675-vn1f71l27dm9m2q2edt9dhusjv52shrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa8wfDd6Jogyfw20t8NJipfb_0ZzN0U8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
